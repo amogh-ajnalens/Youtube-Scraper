@@ -1,9 +1,7 @@
 1. Run the install_requirements.py
 
-2. Run the vidscraper.py
+2. Populate the keywords.csv with desired search terms.
 
-3. Enter in the keyword 
+3. Run the vidscraper.py.
 
-4. Enter the the number of videos
-
-5. wait until all your videos are downloaded :)
+4. wait until all your videos are downloaded :)
